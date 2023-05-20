@@ -23,10 +23,6 @@ I'm a passionate Full Stack Web3 Developer with expertise in TypeScript, JavaScr
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jay-keraliya-930326224/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jaykeraliya0@gmail.com)
 ## 🚀 Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaykeraliya0&repo=project-byte-bunch)](https://github.com/jaykeraliya0/project-byte-bunch)
@@ -35,3 +31,8 @@ I'm a passionate Full Stack Web3 Developer with expertise in TypeScript, JavaScr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaykeraliya0&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykeraliya0&hide_progress=true)](https://github.com/jaykeraliya0/github-readme-stats)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jay-keraliya-930326224/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jaykeraliya0@gmail.com)
