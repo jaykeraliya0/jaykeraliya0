@@ -30,8 +30,6 @@ I'm a passionate Full Stack Web3 Developer with expertise in TypeScript, JavaScr
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaykeraliya0&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykeraliya0&layout=compact)](https://github.com/jaykeraliya0/github-readme-stats)
 ## 📫 Connect with Me
 
