@@ -27,11 +27,6 @@ I'm a passionate Full Stack Web3 Developer with expertise in TypeScript, JavaScr
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaykeraliya0&repo=project-byte-bunch)](https://github.com/jaykeraliya0/project-byte-bunch)
 
-
-## 📊 GitHub Stats
-[![GitHub](https://github-readme-stats.vercel.app/api?username=jaykeraliya0)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykeraliya0&layout=compact)](https://github.com/jaykeraliya0/github-readme-stats)
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jay-keraliya-930326224/)
