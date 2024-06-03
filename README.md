@@ -1,6 +1,6 @@
 # Hi, I'm Jay Keraliya! 👋
 
-I'm a passionate Full Stack Web3 Developer with expertise in TypeScript, JavaScript, Solidity, React, Next.js, Express.js, Firebase, and Tailwind CSS. I love exploring the intersection of blockchain technology and web development, creating decentralized applications (DApps), and building user-friendly interfaces. Visit [jaykeraliya.tech](https://jaykeraliya.tech/) for more details.
+I'm a passionate Full Stack Web3 Developer with expertise in TypeScript, JavaScript, Solidity, React, Next.js, Express.js, Firebase, and Tailwind CSS. I love exploring the intersection of blockchain technology and web development, creating decentralized applications (DApps), and building user-friendly interfaces. Visit [jaykeraliya.com](https://jaykeraliya.com/) for more details.
 
 ## 🛠️ Tools & Technologies I Know
 
