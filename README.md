@@ -27,11 +27,6 @@ I'm a passionate Full Stack Web3 Developer with expertise in TypeScript, JavaScr
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 
-## 🚀 Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaykeraliya0&repo=project-byte-bunch)](https://github.com/jaykeraliya0/project-byte-bunch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaykeraliya0&repo=project-block-subs)](https://github.com/jaykeraliya0/project-block-subs)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jay-keraliya-930326224/)
