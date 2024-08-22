@@ -23,7 +23,6 @@ I'm a passionate Full Stack Web3 Developer with expertise in TypeScript, JavaScr
 
 ## 📚 Tools & Technologies I Want to Learn
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 
